@@ -1,0 +1,92 @@
+.top_text {
+  text-align: center;
+}
+
+.bottom_Text {
+  text-align: center;
+  font-size: 10px;
+  color: white;
+}
+
+.bottom_image {
+  text-align: center;
+}
+
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
+}
+
+hr {
+  width: 50%;
+}
+
+/* p {
+  text-align: justify;
+  padding-left: 10%;
+}
+
+li {
+  text-align: justify;
+  padding-left: 10%;
+} */
+
+button {  
+  color: var(--color);
+  transition: 0.25s;
+  display: inline;
+  
+  &:hover,
+  &:focus { 
+    /* border-color: var(--hover); */
+    color: #ffa260;
+  }
+
+  background-color: transparent;
+  /* padding: 0%; */
+  border: none;
+}
+
+body {
+  background-color: black;
+}
+
+.menu-button {
+  font-size: 16px;
+  cursor: pointer;
+  top: 20px;
+  left: 20px;
+}
+
+.side-menu {
+  position: fixed;
+  top: 0;
+  left: 0; /* Start from the left of the screen */
+  width: 250px;
+  height: 100%;
+  background-color: #343a40;
+  color: white;
+  transform: translateX(-100%);
+  transition: transform 0.6s ease-in-out;
+  padding: 20px;
+  opacity: 80%;
+  z-index: 2;
+}
+
+.side-menu.show-menu {
+  transform: translateX(0); /* Slide in from the left */
+}
+
+.side-menu.hide-menu {
+  transform: translateX(-100%); /* Slide out to the left */
+}
+
+.side-menu ul {
+  list-style: none;
+  padding: 0;
+}
+
+.side-menu li {
+  margin: 20px 0;
+}

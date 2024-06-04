@@ -1,0 +1,40 @@
+.coverflowSlider {
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+  
+.slide {
+    /* display: flex; */
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    
+    width: 250px;
+    height: 250px;
+}
+  
+.slide img {
+    /* display: absolute; */
+    width: 100%;
+}
+  
+.name {
+    margin-top: 10px;
+    font-size: 15px;
+    /* position: absolute; */
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: px 0 0 0;
+}
+  
+.song {
+    margin-top: 10px;
+    font-size: 15px;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding: 0px 0;
+}
