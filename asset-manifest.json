@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/highseason/static/css/main.1c360d85.css",
+    "main.js": "/highseason/static/js/main.daafc45b.js",
+    "static/media/facebook.png": "/highseason/static/media/facebook.29600f9729819a1df471.png",
+    "static/media/instagram.png": "/highseason/static/media/instagram.cb38f852d0a1d0346438.png",
+    "static/media/youtube.png": "/highseason/static/media/youtube.e6095e34300603ead90a.png",
+    "static/media/high_seAson.PNG": "/highseason/static/media/high_seAson.2850950b3293126df03b.PNG",
+    "index.html": "/highseason/index.html",
+    "main.1c360d85.css.map": "/highseason/static/css/main.1c360d85.css.map",
+    "main.daafc45b.js.map": "/highseason/static/js/main.daafc45b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c360d85.css",
+    "static/js/main.daafc45b.js"
+  ]
+}
