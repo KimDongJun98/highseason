@@ -18,7 +18,7 @@ React를 이용한 저의 첫 포트폴리오입니다.
 
 ## ⭐ 주요 기능
 
-- **Home**
+**Home**
 
 - 좌측 상단 메뉴 버튼을 누르면 메뉴창 활성화
 - 페이지를 클릭하거나 다른 곳을 클릭하면 메뉴창 비활성화
@@ -27,7 +27,7 @@ React를 이용한 저의 첫 포트폴리오입니다.
   <img src="https://github.com/KimDongJun98/highseason/assets/114638544/e020a8c7-1704-4b74-9c3e-13dc9f7ac587">
 </p>
 
-- **Artist**
+**Artist**
 
 소속 가수들의 프로필 & 앨범 이미지 확인
 
@@ -39,7 +39,7 @@ React를 이용한 저의 첫 포트폴리오입니다.
   <img src="https://github.com/KimDongJun98/highseason/assets/114638544/4a7cac51-c6ec-413a-b255-471de546d448">
 </p>
 
-- **Discography**
+**Discography**
 
 뮤지션들의 작품 & 유튜브 링크 감상 가능
 
@@ -50,7 +50,7 @@ React를 이용한 저의 첫 포트폴리오입니다.
   <img src="https://github.com/KimDongJun98/highseason/assets/114638544/4423d7f5-3116-4f9c-a54a-4d5046e54d74">
 </p>
 
-- **Audition**
+**Audition**
 
 오디션 정보 확인 & 지원서 다운로드 가능
 
