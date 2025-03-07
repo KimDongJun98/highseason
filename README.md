@@ -64,4 +64,5 @@ React를 이용한 저의 첫 포트폴리오입니다.
 <br/>
 
 ## 📑 페이지 구성
-![역할](https://github.com/user-attachments/assets/d57f0dbe-7748-499a-b4b2-f751a782e29e)
+![readme 작성](https://github.com/user-attachments/assets/c7d0a070-51a7-4936-af79-e3163ed1105c)
+
